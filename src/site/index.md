@@ -1,6 +1,6 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: Venture Gears
+subtitle: We are a mobile app and SaaS publishing company, as well as we work as resellers for SMB SaaS software.
 layout: layouts/base.njk
 ---
 
